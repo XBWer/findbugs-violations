@@ -1,6 +1,6 @@
 package edu.lu.uni.serval.parsing.javaparsing
 
-import edu.lu.uni.serval.parsing.javaparsing.visitor.{AnnotationVisitor}
+import edu.lu.uni.serval.parsing.javaparsing.visitor.AnnotationVisitor
 import org.eclipse.jdt.core.dom.{ASTVisitor, PackageDeclaration, TypeDeclaration}
 import org.junit.Test
 import java.io.File

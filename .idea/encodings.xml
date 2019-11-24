@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/GitTraverse" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GitTraverse/target/classes/META-INF/maven/edu.lu.uni.serval/GitTraverse" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Parser" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Parser/target/classes/META-INF/maven/edu.lu.uni.serval/Parser" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PatternMining" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PatternMining/target/classes/META-INF/maven/edu.lu.uni.serval/PatternMining" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gumtree" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gumtree/client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gumtree/client.diff" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gumtree/core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gumtree/core/target/classes/META-INF/maven/com.github.gumtreediff/core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gumtree/gen.antlr3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gumtree/gen.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gumtree/gen.jdt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gumtree/gen.jdt/target/classes/META-INF/maven/com.github.gumtreediff/gen.jdt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gumtree/gen.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gumtree/gen.ruby" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gumtree/gen.sax" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gumtree/gumtree-all" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simple-utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simple-utils/target/classes/META-INF/maven/edu.lu.uni/simple-utils" charset="UTF-8" />
+  </component>
+</project>

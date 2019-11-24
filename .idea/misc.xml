@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ct4j/pom.xml" />
+        <option value="$PROJECT_DIR$/Parser/target/classes/META-INF/maven/edu.lu.uni.serval/Parser/pom.xml" />
+        <option value="$PROJECT_DIR$/Parser/target/classes/META-INF/maven/edu.lu.uni.serval/Parser/pom.properties" />
+        <option value="$PROJECT_DIR$/Parser/pom.xml" />
+        <option value="$PROJECT_DIR$/gumtree/core/target/classes/META-INF/maven/com.github.gumtreediff/core/pom.xml" />
+        <option value="$PROJECT_DIR$/gumtree/core/target/classes/META-INF/maven/com.github.gumtreediff/core/pom.properties" />
+        <option value="$PROJECT_DIR$/gumtree/gen.c/pom.xml" />
+        <option value="$PROJECT_DIR$/gumtree/client/pom.xml" />
+        <option value="$PROJECT_DIR$/gumtree/gen.js/pom.xml" />
+        <option value="$PROJECT_DIR$/gumtree/gen.jdt/target/classes/META-INF/maven/com.github.gumtreediff/gen.jdt/pom.xml" />
+        <option value="$PROJECT_DIR$/gumtree/gen.jdt/target/classes/META-INF/maven/com.github.gumtreediff/gen.jdt/pom.properties" />
+        <option value="$PROJECT_DIR$/gumtree/gen.sax/pom.xml" />
+        <option value="$PROJECT_DIR$/gumtree/pom.xml" />
+        <option value="$PROJECT_DIR$/gumtree/gen.ruby/pom.xml" />
+        <option value="$PROJECT_DIR$/gumtree/gen.antlr3/pom.xml" />
+        <option value="$PROJECT_DIR$/gumtree/client.diff/pom.xml" />
+        <option value="$PROJECT_DIR$/gumtree/gumtree-all/pom.xml" />
+        <option value="$PROJECT_DIR$/GitTraverse/target/classes/META-INF/maven/edu.lu.uni.serval/GitTraverse/pom.xml" />
+        <option value="$PROJECT_DIR$/GitTraverse/target/classes/META-INF/maven/edu.lu.uni.serval/GitTraverse/pom.properties" />
+        <option value="$PROJECT_DIR$/GitTraverse/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/GitTraverse/pom.xml" />
+        <option value="$PROJECT_DIR$/simple-utils/target/classes/META-INF/maven/edu.lu.uni/simple-utils/pom.xml" />
+        <option value="$PROJECT_DIR$/simple-utils/target/classes/META-INF/maven/edu.lu.uni/simple-utils/pom.properties" />
+        <option value="$PROJECT_DIR$/simple-utils/pom.xml" />
+        <option value="$PROJECT_DIR$/PatternMining/target/classes/META-INF/maven/edu.lu.uni.serval/PatternMining/pom.xml" />
+        <option value="$PROJECT_DIR$/PatternMining/target/classes/META-INF/maven/edu.lu.uni.serval/PatternMining/pom.properties" />
+        <option value="$PROJECT_DIR$/PatternMining/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/PatternMining/pom.xml" />
+        <option value="$PROJECT_DIR$/parsing-utils/pom.xml" />
+        <option value="$PROJECT_DIR$/repo-iterator/pom.xml" />
+        <option value="$PROJECT_DIR$/violation-collection/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

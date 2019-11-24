@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Parser (2)" />
+        <module name="gen.c" />
+        <module name="Parser (1)" />
+        <module name="client" />
+        <module name="GitTraverse (1)" />
+        <module name="gen.jdt (1)" />
+        <module name="core (3) (com.github.gumtreediff)" />
+        <module name="simple-utils (2)" />
+        <module name="core (1)" />
+        <module name="PatternMining (3) (edu.lu.uni.serval)" />
+        <module name="ct4j-fbmining" />
+        <module name="PatternMining (2)" />
+        <module name="maven-archiver (2)" />
+        <module name="parsing-utils" />
+        <module name="Parser (3) (edu.lu.uni.serval)" />
+        <module name="gen.ruby" />
+        <module name="repo-iterator" />
+        <module name="violation-collection" />
+        <module name="simple-utils (1)" />
+        <module name="gen.jdt (3) (com.github.gumtreediff)" />
+        <module name="gumtree-all" />
+        <module name="GitTraverse (2)" />
+        <module name="gen.jdt (2)" />
+        <module name="gen.sax" />
+        <module name="simple-utils (3) (edu.lu.uni)" />
+        <module name="core (2)" />
+        <module name="PatternMining (1)" />
+        <module name="maven-archiver (1)" />
+        <module name="gen.antlr" />
+        <module name="client.diff" />
+        <module name="GitTraverse (3) (edu.lu.uni.serval)" />
+        <module name="gen.js" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="core (3)" target="1.8" />
+      <module name="gen.jdt (3)" target="1.8" />
+      <module name="GitTraverse (3)" target="1.8" />
+      <module name="maven-archiver (3)" target="1.5" />
+      <module name="Parser (3)" target="1.8" />
+      <module name="PatternMining (3)" target="1.8" />
+      <module name="simple-utils (3)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

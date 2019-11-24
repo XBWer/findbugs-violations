@@ -1,0 +1,110 @@
+19:10:16.871 [main] DEBUG org.eclipse.jgit.util.FS:483 - readpipe [git, --version],/usr/bin
+19:10:16.971 [main] DEBUG org.eclipse.jgit.util.FS:500 - readpipe may return 'git version 2.17.1'
+19:10:16.972 [main] DEBUG org.eclipse.jgit.util.FS:501 - remaining output:
+
+19:10:16.972 [main] DEBUG org.eclipse.jgit.util.FS:483 - readpipe [git, config, --system, --edit],/usr/bin
+19:10:16.977 [main] DEBUG org.eclipse.jgit.util.FS:500 - readpipe may return '/etc/gitconfig'
+19:10:16.977 [main] DEBUG org.eclipse.jgit.util.FS:501 - remaining output:
+
+19:11:14.339 [main] DEBUG org.eclipse.jgit.util.FS:483 - readpipe [git, --version],/usr/bin
+19:11:14.417 [main] DEBUG org.eclipse.jgit.util.FS:500 - readpipe may return 'git version 2.17.1'
+19:11:14.417 [main] DEBUG org.eclipse.jgit.util.FS:501 - remaining output:
+
+19:11:14.417 [main] DEBUG org.eclipse.jgit.util.FS:483 - readpipe [git, config, --system, --edit],/usr/bin
+19:11:14.420 [main] DEBUG org.eclipse.jgit.util.FS:500 - readpipe may return '/etc/gitconfig'
+19:11:14.420 [main] DEBUG org.eclipse.jgit.util.FS:501 - remaining output:
+
+19:11:41.209 [main] DEBUG org.eclipse.jgit.util.FS:483 - readpipe [git, --version],/usr/bin
+19:11:41.286 [main] DEBUG org.eclipse.jgit.util.FS:500 - readpipe may return 'git version 2.17.1'
+19:11:41.287 [main] DEBUG org.eclipse.jgit.util.FS:501 - remaining output:
+
+19:11:41.287 [main] DEBUG org.eclipse.jgit.util.FS:483 - readpipe [git, config, --system, --edit],/usr/bin
+19:11:41.291 [main] DEBUG org.eclipse.jgit.util.FS:500 - readpipe may return '/etc/gitconfig'
+19:11:41.291 [main] DEBUG org.eclipse.jgit.util.FS:501 - remaining output:
+
+19:12:04.849 [main] DEBUG org.eclipse.jgit.util.FS:483 - readpipe [git, --version],/usr/bin
+19:12:04.938 [main] DEBUG org.eclipse.jgit.util.FS:500 - readpipe may return 'git version 2.17.1'
+19:12:04.938 [main] DEBUG org.eclipse.jgit.util.FS:501 - remaining output:
+
+19:12:04.939 [main] DEBUG org.eclipse.jgit.util.FS:483 - readpipe [git, config, --system, --edit],/usr/bin
+19:12:04.942 [main] DEBUG org.eclipse.jgit.util.FS:500 - readpipe may return '/etc/gitconfig'
+19:12:04.942 [main] DEBUG org.eclipse.jgit.util.FS:501 - remaining output:
+
+19:14:13.304 [main] DEBUG org.eclipse.jgit.util.FS:483 - readpipe [git, --version],/usr/bin
+19:14:13.377 [main] DEBUG org.eclipse.jgit.util.FS:500 - readpipe may return 'git version 2.17.1'
+19:14:13.377 [main] DEBUG org.eclipse.jgit.util.FS:501 - remaining output:
+
+19:14:13.378 [main] DEBUG org.eclipse.jgit.util.FS:483 - readpipe [git, config, --system, --edit],/usr/bin
+19:14:13.381 [main] DEBUG org.eclipse.jgit.util.FS:500 - readpipe may return '/etc/gitconfig'
+19:14:13.382 [main] DEBUG org.eclipse.jgit.util.FS:501 - remaining output:
+
+19:14:25.435 [main] DEBUG e.l.u.s.a.i.t.FindBugsAlarmCollectTask:71 - Processing: 464ba463f2aca1d7e21004422d8fb63640c1fdcf
+19:14:25.630 [main] ERROR e.l.u.s.a.i.t.FindBugsAlarmCollectTask:82 - pom.xml not found in root.
+19:16:29.046 [main] DEBUG org.eclipse.jgit.util.FS:483 - readpipe [git, --version],/usr/bin
+19:16:29.127 [main] DEBUG org.eclipse.jgit.util.FS:500 - readpipe may return 'git version 2.17.1'
+19:16:29.127 [main] DEBUG org.eclipse.jgit.util.FS:501 - remaining output:
+
+19:16:29.128 [main] DEBUG org.eclipse.jgit.util.FS:483 - readpipe [git, config, --system, --edit],/usr/bin
+19:16:29.131 [main] DEBUG org.eclipse.jgit.util.FS:500 - readpipe may return '/etc/gitconfig'
+19:16:29.131 [main] DEBUG org.eclipse.jgit.util.FS:501 - remaining output:
+
+19:16:43.493 [main] DEBUG e.l.u.s.a.i.t.FindBugsAlarmCollectTask:71 - Processing: 3ff369613482a4b95ac74487dfb723b24f58b9c8
+19:21:28.870 [main] ERROR e.l.u.s.a.i.t.FindBugsAlarmCollectTask:133 - Error occurred in processing $module --- null
+19:36:36.300 [main] DEBUG org.eclipse.jgit.util.FS:483 - readpipe [git, --version],/usr/bin
+19:36:36.370 [main] DEBUG org.eclipse.jgit.util.FS:500 - readpipe may return 'git version 2.17.1'
+19:36:36.370 [main] DEBUG org.eclipse.jgit.util.FS:501 - remaining output:
+
+19:36:36.371 [main] DEBUG org.eclipse.jgit.util.FS:483 - readpipe [git, config, --system, --edit],/usr/bin
+19:36:36.374 [main] DEBUG org.eclipse.jgit.util.FS:500 - readpipe may return '/etc/gitconfig'
+19:36:36.374 [main] DEBUG org.eclipse.jgit.util.FS:501 - remaining output:
+
+19:36:37.166 [main] DEBUG e.l.u.s.a.i.t.FindBugsAlarmCollectTask:71 - Processing: 3ff369613482a4b95ac74487dfb723b24f58b9c8
+19:39:23.513 [main] ERROR e.l.u.s.a.i.t.FindBugsAlarmCollectTask:132 - Error occurred in processing $module --- null
+20:43:57.299 [main] DEBUG org.eclipse.jgit.util.FS:483 - readpipe [git, --version],/usr/bin
+20:43:57.369 [main] DEBUG org.eclipse.jgit.util.FS:500 - readpipe may return 'git version 2.17.1'
+20:43:57.369 [main] DEBUG org.eclipse.jgit.util.FS:501 - remaining output:
+
+20:43:57.369 [main] DEBUG org.eclipse.jgit.util.FS:483 - readpipe [git, config, --system, --edit],/usr/bin
+20:43:57.373 [main] DEBUG org.eclipse.jgit.util.FS:500 - readpipe may return '/etc/gitconfig'
+20:43:57.373 [main] DEBUG org.eclipse.jgit.util.FS:501 - remaining output:
+
+20:44:03.005 [main] DEBUG e.l.u.s.a.i.t.FindBugsAlarmCollectTask:71 - Processing: 3ff369613482a4b95ac74487dfb723b24f58b9c8
+20:46:13.735 [main] ERROR e.l.u.s.a.i.t.FindBugsAlarmCollectTask:132 - Error occurred in processing $module --- null
+20:46:51.561 [main] DEBUG org.eclipse.jgit.util.FS:483 - readpipe [git, --version],/usr/bin
+20:46:51.637 [main] DEBUG org.eclipse.jgit.util.FS:500 - readpipe may return 'git version 2.17.1'
+20:46:51.637 [main] DEBUG org.eclipse.jgit.util.FS:501 - remaining output:
+
+20:46:51.638 [main] DEBUG org.eclipse.jgit.util.FS:483 - readpipe [git, config, --system, --edit],/usr/bin
+20:46:51.641 [main] DEBUG org.eclipse.jgit.util.FS:500 - readpipe may return '/etc/gitconfig'
+20:46:51.642 [main] DEBUG org.eclipse.jgit.util.FS:501 - remaining output:
+
+20:46:53.635 [main] DEBUG e.l.u.s.a.i.t.FindBugsAlarmCollectTask:71 - Processing: 3ff369613482a4b95ac74487dfb723b24f58b9c8
+20:47:08.316 [main] ERROR e.l.u.s.a.i.t.FindBugsAlarmCollectTask:132 - Error occurred in processing $module --- null
+20:47:20.686 [main] DEBUG org.eclipse.jgit.util.FS:483 - readpipe [git, --version],/usr/bin
+20:47:20.765 [main] DEBUG org.eclipse.jgit.util.FS:500 - readpipe may return 'git version 2.17.1'
+20:47:20.765 [main] DEBUG org.eclipse.jgit.util.FS:501 - remaining output:
+
+20:47:20.765 [main] DEBUG org.eclipse.jgit.util.FS:483 - readpipe [git, config, --system, --edit],/usr/bin
+20:47:20.769 [main] DEBUG org.eclipse.jgit.util.FS:500 - readpipe may return '/etc/gitconfig'
+20:47:20.769 [main] DEBUG org.eclipse.jgit.util.FS:501 - remaining output:
+
+20:47:21.671 [main] DEBUG e.l.u.s.a.i.t.FindBugsAlarmCollectTask:71 - Processing: 3ff369613482a4b95ac74487dfb723b24f58b9c8
+20:53:39.489 [main] ERROR e.l.u.s.a.i.t.FindBugsAlarmCollectTask:132 - Error occurred in processing $module --- null
+20:54:18.291 [main] DEBUG org.eclipse.jgit.util.FS:483 - readpipe [git, --version],/usr/bin
+20:54:18.364 [main] DEBUG org.eclipse.jgit.util.FS:500 - readpipe may return 'git version 2.17.1'
+20:54:18.364 [main] DEBUG org.eclipse.jgit.util.FS:501 - remaining output:
+
+20:54:18.365 [main] DEBUG org.eclipse.jgit.util.FS:483 - readpipe [git, config, --system, --edit],/usr/bin
+20:54:18.368 [main] DEBUG org.eclipse.jgit.util.FS:500 - readpipe may return '/etc/gitconfig'
+20:54:18.369 [main] DEBUG org.eclipse.jgit.util.FS:501 - remaining output:
+
+20:54:19.472 [main] DEBUG e.l.u.s.a.i.t.FindBugsAlarmCollectTask:71 - Processing: 3ff369613482a4b95ac74487dfb723b24f58b9c8
+20:58:09.996 [main] DEBUG org.eclipse.jgit.util.FS:483 - readpipe [git, --version],/usr/bin
+20:58:10.075 [main] DEBUG org.eclipse.jgit.util.FS:500 - readpipe may return 'git version 2.17.1'
+20:58:10.075 [main] DEBUG org.eclipse.jgit.util.FS:501 - remaining output:
+
+20:58:10.076 [main] DEBUG org.eclipse.jgit.util.FS:483 - readpipe [git, config, --system, --edit],/usr/bin
+20:58:10.082 [main] DEBUG org.eclipse.jgit.util.FS:500 - readpipe may return '/etc/gitconfig'
+20:58:10.083 [main] DEBUG org.eclipse.jgit.util.FS:501 - remaining output:
+
+20:58:10.268 [main] DEBUG e.l.u.s.a.i.t.FindBugsAlarmCollectTask:71 - Processing: 674dbc9e6c4a344c6015b84dfa3175ca4525af7a

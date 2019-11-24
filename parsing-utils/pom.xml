@@ -51,11 +51,18 @@
             <version>${scala.version}</version>
         </dependency>
 
-        <dependency>
+<!--         <dependency>
             <groupId>org.eclipse.jface</groupId>
             <artifactId>org.eclipse.jface.text</artifactId>
             <version>3.3.0</version>
-        </dependency>
+        </dependency> -->
+        
+        <!-- https://mvnrepository.com/artifact/org.eclipse.jface/text -->
+		<dependency>
+		    <groupId>org.eclipse.jface</groupId>
+		    <artifactId>text</artifactId>
+		    <version>3.3.0-v20070606-0010</version>
+		</dependency>
 
         <dependency>
             <groupId>org.eclipse.tycho</groupId>
